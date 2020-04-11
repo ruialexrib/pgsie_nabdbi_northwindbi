@@ -11,8 +11,8 @@
   DTS:LocaleID="2070"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="130"
-  DTS:VersionGUID="{38CE3C7A-AE5C-4F57-A264-5E1A38BBBF81}">
+  DTS:VersionBuild="132"
+  DTS:VersionGUID="{37D45EB8-95B9-4E70-959A-4711FD44759C}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -33,7 +33,7 @@
       DTS:ObjectName="EXCEL_Dimensao_Tempo">
       <DTS:ObjectData>
         <DTS:ConnectionManager
-          DTS:ConnectionString="Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\ruiribeiro\source\repos\Grupo1_NorthWind_SSIS\Dimensao tempo 1994-1996.xls;Extended Properties=&quot;EXCEL 8.0;HDR=YES&quot;;" />
+          DTS:ConnectionString="Provider=Microsoft.Jet.OLEDB.4.0;Data Source=W:\Github\pgsie_nabdbi_northwindbi\Grupo1_NorthWind_SSIS\Dimensao tempo 1994-1996.xls;Extended Properties=&quot;EXCEL 8.0;HDR=YES&quot;;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
@@ -43,7 +43,7 @@
       DTS:ObjectName="JET_ACCESS_Northwind">
       <DTS:ObjectData>
         <DTS:ConnectionManager
-          DTS:ConnectionString="Data Source=C:\Users\ruiribeiro\source\repos\Grupo1_NorthWind_SSIS\Northwind.MDB;Provider=Microsoft.Jet.OLEDB.4.0;" />
+          DTS:ConnectionString="Data Source=W:\Github\pgsie_nabdbi_northwindbi\Grupo1_NorthWind_SSIS\Northwind.MDB;Provider=Microsoft.Jet.OLEDB.4.0;" />
       </DTS:ObjectData>
     </DTS:ConnectionManager>
     <DTS:ConnectionManager
